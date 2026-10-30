@@ -1,12 +1,12 @@
 {
-  "serial_fraction_s_fit": 1.665102284232018,
-  "serial_fraction_used": 1.665102284232018,
-  "S_max": 0.6005637067882722,
+  "serial_fraction_s_fit": 1.4045932599072677,
+  "serial_fraction_used": 1.4045932599072677,
+  "S_max": 0.7119498779782133,
   "per_P_serial_fraction": {
-    "2": 0.9838783922610985,
-    "4": 1.3897455142936408,
-    "8": 2.0898456717690856
+    "2": 0.9041418009265794,
+    "4": 1.1820232208774282,
+    "8": 1.7315268262085992
   },
-  "gustafson_alpha_mean": 0.8946668537368585,
+  "gustafson_alpha_mean": 0.8553776070120551,
   "note": "negative s_fit means superlinear speedup (cache effects); S_max null = unbounded"
 }
