@@ -1,0 +1,34 @@
+{
+  "cpu": {
+    "model_name": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+    "machine": "AMD64",
+    "frequency": {
+      "current_mhz": 3201.0,
+      "max_mhz": 3201.0,
+      "min_mhz": 0.0
+    }
+  },
+  "topology": {
+    "physical_cores": 8,
+    "logical_threads": 16,
+    "smt_enabled": true
+  },
+  "caches": {
+    "l1d_bytes": null,
+    "l2_bytes": null,
+    "l3_bytes": null,
+    "line_bytes": null
+  },
+  "cache_line_bytes": 64,
+  "os": {
+    "system": "Windows",
+    "release": "11",
+    "kernel_version": "10.0.26300"
+  },
+  "python": {
+    "implementation": "CPython",
+    "version": "3.14.8",
+    "compiler": "MSC v.1944 64 bit (AMD64)"
+  },
+  "notes": "Fields that are null could not be detected; fill from lscpu / system docs and say so in the README."
+}

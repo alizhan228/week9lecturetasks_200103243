@@ -1,0 +1,21 @@
+{
+  "kernel": "5-point Jacobi stencil, float64",
+  "flops_per_point": 4,
+  "arithmetic_intensity_flop_per_byte": {
+    "ideal_16B_per_point": 0.25,
+    "with_write_allocate_24B": 0.16666666666666666,
+    "no_cache_reuse_48B": 0.08333333333333333
+  },
+  "working_set_bytes": 31719424,
+  "l2_bytes": null,
+  "l3_bytes": null,
+  "working_set_fits_in_L3": null,
+  "peak_gflops": 409.728,
+  "peak_bw_gbs": null,
+  "ridge_point_flop_per_byte": null,
+  "attainable_gflops_at_ideal_AI": null,
+  "achieved_gflops_P1": 2.4727295471829835,
+  "achieved_gflops_P8": 1.2657200084307105,
+  "regime": "memory-bandwidth bound (provisional)",
+  "regime_basis": "peak bandwidth and/or peak GFLOP/s not supplied; classification assumes ridge point > 1 FLOP/byte, typical of x86 CPUs. Re-run with --peak-bw-gbs to confirm"
+}

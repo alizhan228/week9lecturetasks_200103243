@@ -1,0 +1,12 @@
+{
+  "serial_fraction_s_fit": 1.665102284232018,
+  "serial_fraction_used": 1.665102284232018,
+  "S_max": 0.6005637067882722,
+  "per_P_serial_fraction": {
+    "2": 0.9838783922610985,
+    "4": 1.3897455142936408,
+    "8": 2.0898456717690856
+  },
+  "gustafson_alpha_mean": 0.8946668537368585,
+  "note": "negative s_fit means superlinear speedup (cache effects); S_max null = unbounded"
+}

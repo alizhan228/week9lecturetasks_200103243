@@ -1,0 +1,11 @@
+{
+  "N": 1088,
+  "M": 544,
+  "runs": 3,
+  "t_naive_ijk_ns": 155561900,
+  "t_interchanged_ikj_ns": 19816200,
+  "speedup": 7.85023869359413,
+  "max_abs_diff": 0.0,
+  "within_1e-12": true,
+  "digest_ikj_rounded_6dp": "dc4503d80f913a34272670f593d715329c9b5f48b267cdcf83fdb3ddb1bfdec8"
+}
